@@ -1,0 +1,8 @@
+aze
+bel
+glg
+slk
+tur
+rus
+por
+ces
